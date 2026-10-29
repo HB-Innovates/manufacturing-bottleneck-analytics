@@ -26,7 +26,7 @@ Maßnahmen bringen am meisten?
 
 Vollständiger Bericht: [`report/management_summary.md`](report/management_summary.md)
 
-Tableau-Dashboard: [Tableau Public – Husain Bagichawala](https://public.tableau.com/app/profile/husain.bagichawala)
+Tableau-Dashboard: [manufacturing-bottleneck-analytics auf Tableau Public](https://public.tableau.com/views/manufacturing-bottleneck-analytics/Sheet1)
 
 ![Kapazität je Prozessschritt](report/capacity_by_step.png)
 
