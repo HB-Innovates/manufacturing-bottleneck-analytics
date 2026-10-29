@@ -20,4 +20,4 @@ connected directly in Tableau Public (free) or Tableau Desktop.
 4. Dashboard layout: KPI row (OEE of bottleneck, scrap %, downtime) on
    top, capacity + Pareto in the middle, trend and heatmap below.
 5. Add a `process_step` filter and apply it to all related sheets.
-6. Publish to Tableau Public and add the link to the main README.
+6. Publish to Tableau Public. Profile: https://public.tableau.com/app/profile/husain.bagichawala
