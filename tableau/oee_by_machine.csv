@@ -1,0 +1,13 @@
+process_step,machine_id,availability,performance,quality,oee
+30_Wire_Bonding,WB-01,0.817,0.898,0.969,0.711
+30_Wire_Bonding,WB-02,0.819,0.905,0.969,0.718
+40_Molding,MO-01,0.881,0.897,0.981,0.775
+40_Molding,MO-02,0.878,0.9,0.981,0.775
+20_Die_Attach,DA-02,0.888,0.898,0.98,0.782
+20_Die_Attach,DA-03,0.892,0.899,0.981,0.787
+20_Die_Attach,DA-01,0.893,0.901,0.981,0.789
+50_Final_Test,FT-03,0.899,0.9,0.981,0.794
+50_Final_Test,FT-02,0.899,0.901,0.981,0.795
+50_Final_Test,FT-01,0.899,0.902,0.982,0.797
+10_Wafer_Test,WT-01,0.91,0.897,0.981,0.801
+10_Wafer_Test,WT-02,0.91,0.901,0.981,0.804

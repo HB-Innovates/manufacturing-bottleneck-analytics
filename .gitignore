@@ -1,0 +1,3 @@
+data/production.db
+__pycache__/
+*.pyc

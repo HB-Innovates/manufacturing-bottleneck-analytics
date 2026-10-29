@@ -1,0 +1,16 @@
+process_step,shift,scrap_pct
+10_Wafer_Test,Frueh,1.87
+10_Wafer_Test,Nacht,2.16
+10_Wafer_Test,Spaet,1.7
+20_Die_Attach,Frueh,1.81
+20_Die_Attach,Nacht,2.21
+20_Die_Attach,Spaet,1.74
+30_Wire_Bonding,Frueh,2.87
+30_Wire_Bonding,Nacht,3.37
+30_Wire_Bonding,Spaet,3.09
+40_Molding,Frueh,1.79
+40_Molding,Nacht,2.2
+40_Molding,Spaet,1.77
+50_Final_Test,Frueh,1.78
+50_Final_Test,Nacht,2.12
+50_Final_Test,Spaet,1.69

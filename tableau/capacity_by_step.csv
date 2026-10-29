@@ -1,0 +1,6 @@
+process_step,machines,good_units_per_day,downtime_min_per_day
+30_Wire_Bonding,2,7482.0,525.0
+40_Molding,2,12177.0,347.0
+10_Wafer_Test,2,15416.0,259.0
+50_Final_Test,3,15850.0,437.0
+20_Die_Attach,3,16975.0,471.0

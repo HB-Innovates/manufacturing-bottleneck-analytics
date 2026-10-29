@@ -1,0 +1,7 @@
+reason,minutes,share_pct,cumulative_pct
+Ruesten,45140,30.8,30.8
+Stoerung_Mechanik,29121,19.9,50.6
+Materialmangel,25665,17.5,68.1
+Wartung_ungeplant,16971,11.6,79.7
+Warten_auf_Bediener,15247,10.4,90.1
+Stoerung_Software,14531,9.9,100.0
